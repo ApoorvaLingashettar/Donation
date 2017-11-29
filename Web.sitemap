@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Deafault.aspx" title="Home"  description="Home">
+    <siteMapNode title="Admin"  description="Admin Functions" url="">
+      <siteMapNode url="" title="Add donor"  description="add new user" />
+      <siteMapNode url="" title ="Donor list" description ="donor list" />
+      <siteMapNode url ="" title ="Campaign Maintenance" description ="campaign maintenance"/>
+      <siteMapNode title="users"  description="user Functions" url="">
+        <siteMapNode url="" title="Gift history"  description="User functions" />
+        <siteMapNode url="" title ="Give a gift" description ="Gift history" />
+       
+      </siteMapNode>
+    </siteMapNode>
+
+
+  </siteMapNode>
+        
+   </siteMap>

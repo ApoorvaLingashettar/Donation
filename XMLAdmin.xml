@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sitemap xmlns="http://microsoft.com/schemas/AspNet/SiteMap-File-1.0">
+  <siteMapNode>
+    <sitemapnode title="Add donor" description="Add new user" url="AddDonor.aspx" />
+
+    <sitemapnode title="Donor list" description="Donor List" url="donor_list.aspx" />
+
+    <sitemapnode title="Campaign Maintenance" description="Campaign Maintenance" url="campaigns.aspx" />
+
+
+
+  </siteMapNode>
+  
+</sitemap>
